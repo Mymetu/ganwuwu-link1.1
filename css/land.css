@@ -1,0 +1,33 @@
+@charset "UTF-8";
+.logo {
+    text-align: center;
+}
+.link {
+    text-align: center;
+    margin: 10px 0px 100px 0px;
+    font-size: 25px;
+}
+.footer {
+    text-align: center;
+}
+.notice {
+    margin: 0px 0px 100px 0px;
+}
+.zhifu {
+    text-align: center;
+}
+.about {
+    text-align: center;
+    font-size: 22px;
+    margin: 0px 0px 10px 0px;
+}
+.land {
+    text-align: center;
+    margin: 0px 0px 100px 0px;
+}
+.erro {
+    text-align: center;
+}
+.delete {
+    text-decoration:line-through;
+}

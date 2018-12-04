@@ -1,0 +1,39 @@
+@charset "UTF-8";
+.add {
+    margin: 0 0 6em 0;
+}
+.link {
+    width: 100%;
+}
+.linkname {
+    width: 100%;
+}
+.add {
+    text-align: center;
+}
+.row {
+    display: flex;           /*设置为flex布局*/
+    justify-content: center; /*水平居中*/
+    align-items: center;     /*垂直居中*/
+}
+
+
+/*
+登陆的css
+*/
+.form-table {
+    margin: 0px 0px 5px 0px;
+}
+.zhanghao {
+    margin: 0px 0px 5px 0px;
+}
+form {
+    text-align: center;
+}
+.logout {
+    text-align: center;
+    margin: 60px;
+}
+.footer {
+  margin: 10px;
+}
